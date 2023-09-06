@@ -1,1 +1,1 @@
-# TFG
+En este repositorio estará todo el contenido utilizado para llevar a cabo el TFG. Scripts de python con los tratamientos de los datos y las distintas pruebas realizadas, el informe diseñado en PowerBI, los PDFs con los que hemos trabajado y la memoria.
